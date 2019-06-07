@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+  - 9
+
+cache:
+  directories:
+    - ~/.npm
+    - ~/.cache
+
+install:
+  - yarn install
+
+script:
+  - yarn build
