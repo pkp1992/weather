@@ -139,4 +139,4 @@ var txt = "Съешь ещё этих мягких французских бул
 // alert(transliterate("Ханой"));
 // alert(transliterate(transliterate(txt), true));
 
-///// l6
+///// //// lesson 19
